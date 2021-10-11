@@ -26,5 +26,5 @@ npm run dev
 
 Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
 
-If you find an issue with this starter template, please create an issue. 
+If you find an issue with this starter template, please create an [issue](https://github.com/mmajdanski/svelte-tailwindcss/issues). 
 
