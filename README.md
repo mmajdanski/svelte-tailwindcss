@@ -17,7 +17,8 @@ npm run dev
 
 ## What you'll get
 
-- Fast integration of Svelte and Tailwindcss
+- Fast integration of Svelte and Tailwindcss with ease
+- JIT (just-in-time) integration of tailwindcss so our updates are immediately reflected on the page
 - Basic Starter Tailwindcss Template (includes sidebar navigation, a page header, and a content area)
 
 ### Screenshot below is what you'll start off with
